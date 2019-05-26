@@ -1,0 +1,11 @@
+{"workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#000",
+    "titleBar.inactiveForeground": "#000000CC",
+    "titleBar.activeBackground": "#F4B400",
+    "titleBar.inactiveBackground": "#F4B400CC"
+  },
+  "cSpell.words": [
+    "antialiased",
+    "signin"
+  ]
+}

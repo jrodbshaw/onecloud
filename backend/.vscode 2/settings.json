@@ -1,0 +1,35 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#000",
+    "titleBar.inactiveForeground": "#000000CC",
+    "titleBar.activeBackground": "#62BB47",
+    "titleBar.inactiveBackground": "#62BB47CC"
+  },
+  "cSpell.words": [
+    "alllll",
+    "authorisation",
+    "companys",
+    "deserialize",
+    "doesnt",
+    "es",
+    "exist",
+    "gmail",
+    "graphiql",
+    "jobsite",
+    "new",
+    "onecloud",
+    "pacman",
+    "promisify",
+    "qbcc",
+    "react",
+    "remove",
+    "spinkit",
+    "subaddress",
+    "swipeable",
+    "user",
+    "vals",
+    "views",
+    "xlarge",
+    "xsmall"
+  ]
+}
